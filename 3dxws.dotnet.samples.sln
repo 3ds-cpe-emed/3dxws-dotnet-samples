@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3dxws.dotnet.samples.ein", "3dxws.dotnet.samples.ein\3dxws.dotnet.samples.ein.csproj", "{FCFFFF22-C268-4415-A6A9-BB3C260BA61C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dxws.dotnet.samples.search", "3dxws.dotnet.samples.search\3dxws.dotnet.samples.search.csproj", "{4626FF74-A1D4-40AE-847D-8E98D1658396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCFFFF22-C268-4415-A6A9-BB3C260BA61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFFFF22-C268-4415-A6A9-BB3C260BA61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFFFF22-C268-4415-A6A9-BB3C260BA61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFFFF22-C268-4415-A6A9-BB3C260BA61C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4626FF74-A1D4-40AE-847D-8E98D1658396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4626FF74-A1D4-40AE-847D-8E98D1658396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4626FF74-A1D4-40AE-847D-8E98D1658396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4626FF74-A1D4-40AE-847D-8E98D1658396}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE1D3CB2-3DD1-45F1-8BE6-67B1B85D3355}
+	EndGlobalSection
+EndGlobal

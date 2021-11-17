@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ds.authentication" Version="2.0.2" />
+    <PackageReference Include="ds.authentication.ui.win" Version="2.0.0" />
+    <PackageReference Include="ds.enovia.dseng" Version="2.0.8" />
+    <PackageReference Include="TinyCsvParser" Version="2.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="data\" />
+  </ItemGroup>
+
+</Project>
