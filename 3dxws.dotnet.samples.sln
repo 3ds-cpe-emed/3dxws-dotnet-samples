@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3dxws.dotnet.samples.ein", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dxws.dotnet.samples.search", "3dxws.dotnet.samples.search\3dxws.dotnet.samples.search.csproj", "{4626FF74-A1D4-40AE-847D-8E98D1658396}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3dxws.dotnet.samples.docs", "3dxws.dotnet.samples.docs\3dxws.dotnet.samples.docs.csproj", "{FEFBCFB5-DD5F-4952-A25B-BE45C60B3909}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4626FF74-A1D4-40AE-847D-8E98D1658396}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4626FF74-A1D4-40AE-847D-8E98D1658396}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4626FF74-A1D4-40AE-847D-8E98D1658396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFBCFB5-DD5F-4952-A25B-BE45C60B3909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFBCFB5-DD5F-4952-A25B-BE45C60B3909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFBCFB5-DD5F-4952-A25B-BE45C60B3909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFBCFB5-DD5F-4952-A25B-BE45C60B3909}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
