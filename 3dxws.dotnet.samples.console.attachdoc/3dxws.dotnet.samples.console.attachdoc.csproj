@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_3dxws.dotnet.samples.console.attachdoc</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ds.authentication" Version="2.0.4" />
+    <PackageReference Include="ds.enovia.document" Version="2.0.6" />
+    <PackageReference Include="Ookii.CommandLine" Version="2.3.0" />
+  </ItemGroup>
+
+</Project>
